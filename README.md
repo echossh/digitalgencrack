@@ -12,7 +12,7 @@ to generate some accounts for free
 # ❓ Does it have some Working Accounts?
 
 - Most likely, no. This project was a scam and a copycat from CandyGen (My Project). I tested some nitro promotional links and some other
-- accounts, but none of them worked.
+  accounts, but none of them worked.
 
 
 # ✅ Is it safe to use?
