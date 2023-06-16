@@ -18,6 +18,6 @@ to generate some accounts for free
 # ✅ Is it safe to use?
 
 - Yes, It is. I checked the source code from the start to the finish and it was clean. If your antivirus detects it as a virus,
-- don't worry, it's just a false positive virus. The reason for that is that this program is coded in C# and based on .NET Framework.
-- Most of the .NET Framework's programs are detected as a trojan. Most of the accounts that are detectable as a trojan, don't have any
-- digital certification from the owner etc..
+  don't worry, it's just a false positive virus. The reason for that is that this program is coded in C# and based on .NET Framework.
+  Most of the .NET Framework's programs are detected as a trojan. Most of the accounts that are detectable as a trojan, don't have any
+  digital certification from the owner etc..
